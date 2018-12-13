@@ -1,2 +1,2 @@
-# seven-days-led-sync
-Seven Days LED Sync is a project that is intended for use at LAN parties to keep RGB LED lighting in the room in sync with the time of day in game including alternate colors for Horde Night.
+# Seven Days to Die LED Sync
+Seven Days to Die LED Sync is a project that is intended for use at LAN parties to keep RGB LED lighting in the room in sync with the time of day in game including alternate colors for Horde Night.  The project consists of a .NET application and an Arduino sketch.  The .NET application runs on the PC and keeps in sync with the server sending color updates to the LED controller as needed.  The Arduino sketch configures the Arduino as an RGB LED controller to drive the RGB LED strips and cant receives simple commands to update the color.
