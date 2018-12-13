@@ -30,3 +30,42 @@
 *.exe
 *.out
 *.app
+
+# Debug Files
+*.pdb
+
+# Incremental Linker Files
+*.ilk
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.opendb
+*.sdf
+*.cachefile
+*.VC.db
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Visual Studio Build Folders
+.vs/
+bin/
+obj/
+x64/
+Debug/
+Release/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
